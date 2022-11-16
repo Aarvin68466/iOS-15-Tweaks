@@ -59,4 +59,5 @@ iOS 15 Working and Tested tweaks
 
 . BetterCC
 
+. SwipeExtenderX
 
