@@ -1,63 +1,67 @@
 # iOS-15-Tweaks
 iOS 15 Working and Tested tweaks 
 
-    . Velvet 2 
+    . Velvet 2         
 
     . Atria                     
 
-. LockPlusPro
+    . LockPlusPro
 
-. JellyFish
+    . JellyFish
 
-. CCSupport
+    . CCSupport
+    
+    . PowerApp
 
-. PowerApp
+    . ImLyingDownDamnit
 
-. ImLyingDownDamnit
+    . Shuffle
 
-. Shuffle
+    . HideSerialNumber
 
-. HideSerialNumber
+    . Easy Notifications 
 
-. Easy Notifications 
+    . DoubleTapToLock
+    
+    . DisablePasteTips
 
-. DoubleTapToLock
+    . DeleteForeverXS
 
-. DisablePasteTips
+    . CopyLog
 
-. DeleteForeverXS
+    . Cylinder Reborn 
 
-. CopyLog
+    . Camera Shutter Sound Disabler
+    
+    . ByeSponsorFB
 
-. Cylinder Reborn 
+    . WifiQr
 
-. Camera Shutter Sound Disabler
+    . TapTapFlip
 
-. ByeSponsorFB
+    . Snapper 2
 
-. WifiQr
+    . SmartBattery 2
 
-. TapTapFlip
+    . SettingsWidgets 
 
-. Snapper 2
+    . AppStore++
 
-. SmartBattery 2
+    . LockApps
 
-. SettingsWidgets 
+    . CC On & Off
 
-. AppStore++
+    . Snowboard 
 
-. LockApps
+    . KillBackground13 (13/14)
 
-. CC On & Off
+    . AppData
 
-. Snowboard 
+    . BetterCC
 
-. KillBackground13 (13/14)
+    . SwipeExtenderX
 
-. AppData
+    . ModernUI
 
-. BetterCC
-
-. SwipeExtenderX
+    . ClassicKeyboardXS
 
