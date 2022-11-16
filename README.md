@@ -3,7 +3,7 @@ iOS 15 Working and Tested tweaks
 
     . Velvet 2         
 
-    . Atria                                                     [https://repo.chariz.com](Repo)  
+    . Atria                                                     [https://repo.chariz.com] 
 
     . LockPlusPro
 
